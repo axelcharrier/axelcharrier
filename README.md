@@ -6,7 +6,7 @@ Hi 👋, I'm Axel
 
 
 🏦 I'm currently working on different skills.
-⚡ Proficient in Python, C++, HTML/CSS,PHP/SQL and other stuff .
+⚡ Proficient in HTML/CSS,PHP/SQL and other stuff .
 💬 What's your favourite quote? Mine is : If it works don't change anything
 📖 Languages: English-French
 
